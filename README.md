@@ -6,13 +6,11 @@ LogLens is a Docker-based log monitoring and AI-powered incident analysis platfo
 
 LogLens provides a centralized workflow for collecting, analyzing, and monitoring application logs. It integrates the ELK Stack for log processing and visualization with local AI-powered incident analysis.
 
-## Screenshots
-
 ### Application Dashboard
 
 ![LogLens Application Dashboard](assets/img.png)
 
-### Dashboard View
+### Kibana View
 
 ![LogLens Dashboard View](assets/img1.png)
 
